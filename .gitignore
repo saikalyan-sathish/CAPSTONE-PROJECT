@@ -12,4 +12,5 @@ __pycache__/
 violation_images/
 violation_logs/
 capstone_model/
+.env
 
