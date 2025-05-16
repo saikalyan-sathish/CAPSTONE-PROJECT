@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.sqlite3
+*.log
+*.env
+*.DS_Store
+.ipynb_checkpoints/
+violation_images/
+violation_logs/
+capstone_model/
+
